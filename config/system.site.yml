@@ -1,0 +1,14 @@
+uuid: 7c50b83b-5ec6-420f-9095-55855c32ac09
+name: buildpoc
+mail: kendall.whitlatch@xmld.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
