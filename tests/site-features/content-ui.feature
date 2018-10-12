@@ -9,4 +9,4 @@ Feature: Create Content through Drupal Content UI
     And I am on "/node/add/page"
     And I enter "Test Page" for "Title"
     And I press "Save"
-    Then I should see "Basic page Test Page has been created."
+    Then I should see "Basic page \u003Cem class=\u0022placeholder\u0022\u003E\u003Ca href=\u0022\/node\/6\u0022 hreflang=\u0022en\u0022\u003ETest Page\u003C\/a\u003E\u003C\/em\u003E has been created."
